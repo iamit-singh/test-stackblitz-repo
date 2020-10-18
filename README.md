@@ -24,7 +24,7 @@ All the transactions are done with the MetaMask wallet.
 
 * Click on the Select Account button to connect with an account using Metamask.
 
-<img src="screenshots/6.png" width="300">
+<img src="screenshots/4.png" width="300">
 
 
 * The selected account will then be displayed on the screen. 
