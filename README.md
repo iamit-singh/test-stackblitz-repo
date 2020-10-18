@@ -14,22 +14,22 @@ At the very first page, the list of products is shown.
 
 Products added to cart are displyed on the top bar.
 
-[screenshot]
+![2](screenshots/2.png)
 
 
 Clicking on checkout will take you to the payment page. Here, all the list of products in the cart can be seen. 
 
-[screenshot]
+![3](screenshots/3.png)
 
 
 Click on the Select Account button to connect with an account using Metamask.
 
-[screenshot]
+![4](screenshots/4.png)
 
 
 The selected account will then be displayed on the screen. 
 
-[screenshot]
+![5](screenshots/5.png)
 
 
 On the top left corner of the screen, the crypto currency can be selected from the dropdown. 
@@ -40,9 +40,9 @@ On selecting currency, respective amount will be shown on the screen.
 
 Click on Confirm & Pay to initiate the transaction. It will take you to the MetaMask wallet, where transaction can be confirmed.
 
-[screenshot]
+![6](screenshots/6.png)
 
 
 After confirmation, transaction status will be displayed on the screen.
 
-[screenshot]
+![7](screenshots/7.png)
