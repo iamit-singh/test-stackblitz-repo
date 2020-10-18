@@ -9,7 +9,7 @@ All the transactions are done with the MetaMask wallet.
 
 At the very first page, the list of products is shown.
 
-[screenshot]
+![1](screenshots/1.png)
 
 
 Products added to cart are displyed on the top bar.
