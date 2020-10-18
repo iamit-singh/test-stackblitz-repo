@@ -24,7 +24,7 @@ All the transactions are done with the MetaMask wallet.
 
 * Click on the Select Account button to connect with an account using Metamask.
 
-![4](screenshots/4.png) <!-- .element width="300px" -->
+![4](screenshots/4.png) <!-- .element width="300" -->
 
 
 * The selected account will then be displayed on the screen. 
@@ -40,7 +40,7 @@ On selecting currency, respective amount will be shown on the screen.
 
 Click on Confirm & Pay to initiate the transaction. It will take you to the MetaMask wallet, where transaction can be confirmed.
 
-![6](screenshots/6.png) <!-- .element width="300px" -->
+![6](screenshots/6.png) <!-- .element width="300" -->
 
 
 * After confirmation, transaction status will be displayed on the screen.
